@@ -2,6 +2,11 @@
 
   Configuracion de BSPWN, Polybar, sxhkd, rofi, nvim, picom, alacritty, mas.
  
+  ![Image text](https://github.com/AlonsoErnesto/Dotfiles2023/blob/main/image1.png)
+  ![Image text](https://github.com/AlonsoErnesto/Dotfiles2023/blob/main/img2.png)
+  ![Image text](https://github.com/AlonsoErnesto/Dotfiles2023/blob/main/img3.png)
+  ![Image text](https://github.com/AlonsoErnesto/Dotfiles2023/blob/main/img4.png)
+
 ## Info
 ```bash
 Theme         = None
