@@ -1,9 +1,20 @@
 # BSPWM en KALI
 
   Configuracion de BSPWN, Polybar, sxhkd, rofi, nvim, picom, alacritty, mas.
-  
-
-##INSTALACION RAPIDA
+ 
+## Info
+```bash
+Theme         = None
+WM            = BSPWM
+Bar           = Polybar
+Terminal      = alacritty
+Font          = Victor Mono Light
+Wallpapers    = variety
+Shell         = oh-my-zsh or oh-my-fish
+Editor        = nvim
+Notifications = rofi
+``` 
+## Instalation
 
 1) Clonar el Repositorio:
   
@@ -13,15 +24,7 @@
   cp * ${HOME}/.config/
   ```
   
-## INSTALACION POR PASOS 
-
-1) Instalando sxhkd
-  ```bash
-    cd Dotfiles2023
-    cp -r sxhkd ${HOME}/.config/
-    sudo apt install alacritty
-    sudo apt rofi
-  ```
+2) Finish!
 
 
 
